@@ -1,0 +1,27 @@
+/* Author: Jialei.He | Editor: Jialei.He */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #fff;
+  color: #111;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+main {
+  width: min(100%, 760px);
+  margin: 0 auto;
+  padding: clamp(72px, 16vh, 160px) 28px 64px;
+}
+h1 {
+  margin: 0 0 32px;
+  font-size: clamp(44px, 8vw, 72px);
+  font-weight: 650;
+  line-height: 1.1;
+  letter-spacing: -0.045em;
+}
+p {
+  max-width: 560px;
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.8;
+}
+.smile { margin-top: 40px; font-size: 24px; }
