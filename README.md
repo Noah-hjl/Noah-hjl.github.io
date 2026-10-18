@@ -1,8 +1,11 @@
 <!-- Author: Jialei.He | Editor: Jialei.He -->
-# Blank here
+# Jialei He
 
-Test for DNS resolution, ping latency, traceroute, and network protocols.
+Personal academic homepage: coursework, medical imaging research, education,
+research experience, internships, and part-time work.
 
-[Open website](https://noah-hjl.github.io/csi205tc-network-lab/)
+[Visit the homepage](https://noah-hjl.github.io/csi205tc-network-lab/)
 
-![Blank here webpage](assets/screenshot.png)
+![Personal homepage preview](assets/screenshot.jpg)
+
+Built with HTML and CSS and hosted on GitHub Pages.
